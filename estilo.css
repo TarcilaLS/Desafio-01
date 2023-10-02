@@ -1,0 +1,43 @@
+body{
+    background: #FAF8A3;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.centro{
+    text-align: center;
+}
+
+.tamanho{
+    font-size: 18px;
+}
+
+.margem{
+    margin: 80px;
+    background-color: #EFFE12;
+}
+
+.preenchimento{
+    padding: 80px;
+    background-color: #EFFE12;
+}
+
+.borda{    
+    border: 20px solid #EFD112;
+}
+
+.forte{
+    background-color: #EFFE12;
+}
+
+a{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: #000000;
+}
+
+a:hover{
+    background-color: #EFC803;
+    color: #000000;
+}
